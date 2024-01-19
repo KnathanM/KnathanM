@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a student at MIT that works on ML for chemistry.
 <!--
 **KnathanM/KnathanM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
